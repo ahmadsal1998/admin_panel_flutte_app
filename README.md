@@ -1,16 +1,26 @@
-# admin_panel
+# admin panel app
 
-A new Flutter project.
+This application addresses the problem of medical reservations, in addition to keeping patient files.
+## Features :
+-Management of medical clinics.
+- Book appointments with the appropriate doctor.
+- Keeping the medical record for each patient.
+- Access to the doctor through the map.
+- Possibility of payment through the application.
 
-## Getting Started
+## Dependencies :
 
-This project is a starting point for a Flutter application.
+  - fluttertoast
+  - firebase_core
+  - provider
+  - http
+  - cloud_firestore
+  - firebase_auth
+  - firebase_storage
+  - firebase_admin
+  - firebase_messaging: ^14.6.6
 
-A few resources to get you started if this is your first Flutter project:
+  
+## Some screenshots from the app :
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://github.com/ahmadsal1998/admin_panel_flutte_app/blob/main/admin%20panel.png">
