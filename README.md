@@ -17,3 +17,8 @@ admoin panel basic app ecommerce.
 ## Some screenshots from the app :
 
 <img src = "https://github.com/ahmadsal1998/admin_panel_flutte_app/blob/main/admin%20panel.png">
+
+
+## Some screenshots from the customer app :
+
+<img src = "https://github.com/ahmadsal1998/ecommerce_app/blob/main/ecomarce.png">
